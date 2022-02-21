@@ -2,7 +2,7 @@
     "name": "CNN",
     "logo": "https://i.imgur.com/ilZJT5s.png",
     "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
-    "category": [
+    "categories": [
         
         {
         "name": "English",
@@ -10,13 +10,13 @@
       }
         
         ],
-    "language": [
+    "languages": [
       {
         "code": "eng",
         "name": "English"
       }
     ],
-    "country": {
+    "countries": {
       "code": "us",
       "name": "United States"
     },
