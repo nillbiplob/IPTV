@@ -1,8 +1,4 @@
 {
-    "channels":
-
-[
-    {
     "name": "CNN",
     "logo": "https://i.imgur.com/ilZJT5s.png",
     "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
@@ -30,5 +26,3 @@
       "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
     }
   }
-]
-}
