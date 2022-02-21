@@ -1,25 +1,26 @@
-[{
+[
+    {
     "name": "CNN",
     "logo": "https://i.imgur.com/ilZJT5s.png",
     "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
-    "categories": [
-        
+    "categories": [ 
         {
         "name": "English",
         "slug": "eng"
-      }
-        
-        ],
+      }  
+      ],
     "languages": [
       {
         "code": "eng",
         "name": "English"
       }
     ],
-    "countries": {
+    "countries": [
+        {
       "code": "us",
       "name": "United States"
-    },
+    }
+    ],
     "tvg": {
       "id": "cnn.us",
       "name": "CNN",
