@@ -2,29 +2,14 @@
     "name": "CNN",
     "logo": "https://i.imgur.com/ilZJT5s.png",
     "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
-    "category": "News",
-    "language": [
-      {
-        "code": "eng",
-        "name": "English"
+    "category": [
+        
+        {
+        "name": "English",
+        "slug": "eng"
       }
-    ],
-    "country": {
-      "code": "us",
-      "name": "United States"
-    },
-    "tvg": {
-      "id": "cnn.us",
-      "name": "CNN",
-      "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
-    }
-  },
-
- {
-    "name": "CNN",
-    "logo": "https://i.imgur.com/ilZJT5s.png",
-    "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
-    "category": "News",
+        
+        ],
     "language": [
       {
         "code": "eng",
