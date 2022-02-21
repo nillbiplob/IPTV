@@ -11,14 +11,16 @@
       ],
       "languages":[
          {
-            "code":"eng",
-            "name":"English"
+             "name":"English",
+            "code":"eng"
+          
          }
       ],
       "countries":[
          {
-            "code":"us",
-            "name":"United States"
+            "name":"United States",
+            "code":"us"
+           
          }
       ],
       "tvg":{
@@ -39,14 +41,16 @@
       ],
       "languages":[
          {
-            "code":"eng",
-            "name":"English"
+            "name":"English",
+            "code":"eng"
+           
          }
       ],
       "countries":[
          {
-            "code":"us",
-            "name":"United States"
+            "name":"United States",
+            "code":"us"
+          
          }
       ],
       "tvg":{
